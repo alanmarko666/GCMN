@@ -1,0 +1,10 @@
+networkx
+pydot
+libauc
+torch_geometric
+libauc
+pydot
+rdkit
+ogb
+wandb
+torchmetrics
